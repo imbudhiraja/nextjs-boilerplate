@@ -9,8 +9,8 @@ password - xxxxxx
 3. cd /home
 4. ls, then If nextjs-boilerplate  is there then follow step (a) else (b).
   a). cd nextjs-boilerplate
-  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git && cd nextjs-boilerplate
-5. git checkout development && git reset --hard origin/development
+  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git 
+5. cd nextjs-boilerplate && git checkout development && git reset --hard origin/development
 6. npm i && npm run dev-build
 7. run pm2 ls, then If web is running then follow step (a) else (b).
   a). pm2 restart web && pm2 logs web.
@@ -26,8 +26,8 @@ password - xxxxx
 3. cd /home
 4. ls, then If nextjs-boilerplate  is there then follow step (a) else (b).
   a). cd nextjs-boilerplate
-  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git && cd nextjs-boilerplate
-5. git checkout development && git reset --hard origin/development
+  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git
+5. cd nextjs-boilerplate && git checkout testing && git reset --hard origin/testing
 6. npm i && npm run staging-build
 7. run pm2 ls, then If web is running then follow step (a) else (b).
   a). pm2 restart web && pm2 logs web.
@@ -42,8 +42,8 @@ password - xxxxx
 3. cd /home
 4. ls, then If nextjs-boilerplate  is there then follow step (a) else (b).
   a). cd nextjs-boilerplate
-  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git && cd nextjs-boilerplate
-5. git checkout master && git reset --hard origin/master
+  b). git clone https://github.com/imbudhiraja/nextjs-bolierplate.git
+5. cd nextjs-boilerplate && git checkout master && git reset --hard origin/master
 6. npm i && npm run prod-build
 7. run pm2 ls, then If web is running then follow step (a) else (b).
   a). pm2 restart web && pm2 logs web.
