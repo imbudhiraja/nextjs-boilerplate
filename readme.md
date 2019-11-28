@@ -42,4 +42,4 @@ $ npm install
 | sitemap       | Generate site                          |
 
 ### Deployment
-Follow Guide - (Here)[https://github.com/imbudhiraja/nextjs-boilerplate/blob/master/deployment.md]
+Follow Guide - [Here](https://github.com/imbudhiraja/nextjs-boilerplate/blob/master/deployment.md)
