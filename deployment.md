@@ -1,7 +1,7 @@
 ### Server Setup 
-Follow guide - (Server Setup)[https://gist.github.com/imbudhiraja/8215398b89066d4cf53e58a784d850c5]
+Follow guide - [Server Setup](https://gist.github.com/imbudhiraja/8215398b89066d4cf53e58a784d850c5)
 
-#### (STAGING)[https://nextjs-boilerplate.development.limited/]
+#### [STAGING](https://nextjs-boilerplate.development.limited/)
 1. Login to server -> 
 username - ssh username@domain-name
 password - xxxxxx
@@ -18,7 +18,7 @@ password - xxxxxx
 8. If no errors on console. code is deployed. Close the terminal.
 
 
-#### TESTING (https://nextjs-boilerplate.development.limited/)
+#### [TESTING](https://nextjs-boilerplate.development.limited/)
 1. Login to server -> 
 username - ssh username@domain-name
 password - xxxxx
@@ -34,7 +34,7 @@ password - xxxxx
   b). pm2 start npm --name "web" -- start
 8. If no errors on console. code is deployed. Close the terminal.
 
-#### PRODUCTION (https://web.example.com/)
+#### [PRODUCTION](https://web.example.com/)
 1. Login to server -> 
 username - ssh username@domain-name
 password - xxxxx
